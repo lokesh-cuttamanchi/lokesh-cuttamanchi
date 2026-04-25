@@ -1,12 +1,12 @@
-👋 Hi, I’m @lokesh-cuttamanchi.
-👀 I’m interested in data science.
-🌱 I’m currently learning Python and machine learning.
-💞️ I’m looking to collaborate on beginner-friendly projects.
-📫 How to reach me: Discord - lwkey03
-😄 Pronouns: he/him
-⚡ Fun fact: I'm a super beginner at coding!
+## Lokesh Cuttamanchi
 
-<!---
-lokesh-cuttamanchi/lokesh-cuttamanchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data & AI Engineer based in Bengaluru.
+building analytics solutions and AI-powered applications.
+
+I work at the intersection of data engineering and applied AI —
+designing systems, defining logic, and shipping solutions using Python,
+SQL, Databricks, and LLM frameworks.
+
+Interested in: text-to-SQL systems · data pipelines · LLM applications · analytics engineering
+
+📍 Bengaluru | 💼 LinkedIn: linkedin.com/in/lokesh-cuttamanchi
